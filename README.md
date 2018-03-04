@@ -1,16 +1,8 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
-	<meta name="generator" content="LibreOffice 5.3.4.2 (MacOSX)"/>
-	<meta name="created" content="00:00:00"/>
-	<meta name="changed" content="00:00:00"/>
-	<style type="text/css">
-		@page { margin-left: 1.25in; margin-right: 1.25in; margin-top: 1in; margin-bottom: 1in }
-		p { margin-bottom: 0.1in; line-height: 120% }
-		a:link { so-language: zxx }
-	</style>
+
+
 </head>
 <body lang="en-US" dir="ltr">
 <p style="margin-bottom: 0in; line-height: 115%"><font color="#000000"><font face="ArialMT, serif"><font size="6" style="font-size: 24pt"><b>Continuing
