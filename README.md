@@ -5,12 +5,13 @@
 
 </head>
 <body lang="en-US" dir="ltr">
-<p style="margin-bottom: 0in; line-height: 115%"><font color="#000000"><font face="ArialMT, serif"><font size="6" style="font-size: 24pt"><b>Continuing
-GIS Education:</b></font></font></font></p>
+<p style="margin-bottom: 0in; line-height: 115%"><font color="#000000"><font face="ArialMT, serif"><font size="6" style="font-size: 24pt"><b><h1>Continuing
+  GIS Education</h1></b></font></font></font></p>
 <p style="margin-bottom: 0in; font-weight: normal; line-height: 115%">
 <br/>
-
+<p> Below are tons'o'links for you to continue your learning adventure in GIS. 
 </p>
+  <a href="mailto:adewade@gmail.com?Subject=Continuing%GIS">Contact me!</a>
 <p style="margin-bottom: 0in; font-weight: normal; line-height: 115%">
 <br/>
 
