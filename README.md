@@ -145,8 +145,8 @@ Cartography </span></u></font></font></font></a>
 <p style="margin-bottom: 0in; line-height: 115%"><a href="http://seepcity.org/"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">Seep
 City </span></u></font></font></font></a>
 </p>
-<p style="margin-bottom: 0in; line-height: 115%"><a href="http://natureinthecity.org/map"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">Nature
-Friends</span></u></font></font></font></a></p>
+<p style="margin-bottom: 0in; line-height: 115%"><a href="http://natureinthecity.org/map"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">Nature in the City
+</span></u></font></font></font></a></p>
 <p style="margin-bottom: 0in; line-height: 115%"><a href="https://www.antievictionmap.com/"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">Anti-Eviction
 Map</span></u></font></font></font></a></p>
 <p style="margin-bottom: 0in; line-height: 115%"><a href="http://blog.flickr.net/en/2015/05/14/eric-fischers-marvelous-maps/"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">Eric
