@@ -80,6 +80,10 @@ MOOC Programs </span></u></font></font></font></a>
 <p style="margin-bottom: 0in; line-height: 115%"><a href="https://learn.arcgis.com/en/"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">ESRI
 Learn GIS</span></u></font></font></font></a></p>
 <p style="margin-bottom: 0in; font-weight: normal; line-height: 115%">
+<p style="margin-bottom: 0in; line-height: 115%"><a href="https://libguides.mit.edu/c.php?g=176295&p=1161396"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">MIT Libraries GIS Tutorials</span></u></font></font></font></a><font color="#000000"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><span style="font-weight: normal">
+<p style="margin-bottom: 0in; line-height: 100%"><a href="http://www.qgistutorials.com/"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">QGIS
+Tutorials</span></u></font></font></font></a></p>
+<p style="margin-bottom: 0in; font-weight: normal; line-height: 100%">
 <br/>
 
 </p>
@@ -92,9 +96,7 @@ next? </b></font></font></font>
 </p>
 <p style="margin-bottom: 0in; line-height: 100%"><a href="http://ccsfgis.org/"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">GISEC
 website</span></u></font></font></font></a></p>
-<p style="margin-bottom: 0in; line-height: 100%"><a href="http://www.qgistutorials.com/"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">QGIS
-Tutorials</span></u></font></font></font></a></p>
-<p style="margin-bottom: 0in; font-weight: normal; line-height: 100%">
+
 <br/>
 
 </p>
