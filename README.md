@@ -34,6 +34,12 @@ Quick Start Overview with Links </span></u></font></font></font></a>
 Brewer</span></u></font></font></font></a><font color="#000000"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><span style="font-weight: normal">
 - Pick Colors for your maps </span></font></font></font>
 </p>
+</p>
+<p style="margin-bottom: 0in; line-height: 115%"><font color="#000000"><font face="ArialMT, serif"><font size="3" style="font-size: 12pt"><b>Resources:</b></font></font></font></p>
+<p style="margin-bottom: 0in; line-height: 115%"><a href="http://mapshaper.org"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">Map Shaper</span></u></font></font></font></a><font color="#000000"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><span style="font-weight: normal">
+- Preview and view map data in the browser </span></font></font></font>
+</p>
+
 <p style="margin-bottom: 0in; line-height: 115%"><a href="http://doc.arcgis.com/en/collector/"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">Collector</span></u></font></font></font></a><font color="#000000"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><span style="font-weight: normal">
 - Collect Field Data with your tablet for ArcGIS </span></font></font></font>
 </p>
