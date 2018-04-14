@@ -24,9 +24,6 @@ Online Help</span></u></font></font></font></a></p>
 Stack Exchange </span></u></font></font></font></a>
 </p>
 
-<p style="margin-bottom: 0in; line-height: 115%"><a href="https://docs.google.com/document/d/1_28znGm_FA7SpbiMWWesGAi7b-0qta3m1Ak4F7hPG0c/edit#"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">GIS
-Quick Start Overview with Links </span></u></font></font></font></a>
-</p>
 
 <p style="margin-bottom: 0in; font-weight: normal; line-height: 115%">
 <br/>
@@ -169,8 +166,8 @@ Lounge</span></u></font></font></font></a><font color="#000000"><font face="Aria
 - GIS Lounge website and email list</span></font></font></font></p>
 
 <p style="margin-bottom: 0in; font-weight: normal; line-height: 115%">
-<p style="margin-bottom: 0in; line-height: 115%"><a href="http://www.themappyisthour.com"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">GeoNet</span></u></font></font></font></a><font color="#000000"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><span style="font-weight: normal">
-- The Mappyist Hour Podcast</span></font></font></font></p>
+<p style="margin-bottom: 0in; line-height: 115%"><a href="http://www.themappyisthour.com"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">The Mappyist Hour Podcast</span></u></font></font></font></a><font color="#000000"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><span style="font-weight: normal">
+- A Geospatial podcast</span></font></font></font></p>
 <br/>
 
 </p>
