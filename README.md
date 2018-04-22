@@ -34,9 +34,15 @@ Stack Exchange </span></u></font></font></font></a>
 Brewer</span></u></font></font></font></a><font color="#000000"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><span style="font-weight: normal">
 - Pick Colors for your maps </span></font></font></font>
 </p>
-
+<p style="margin-bottom: 0in; line-height: 115%"><a href="http://www.personal.psu.edu/cab38/ColorSch/SchHome.html"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">Color Use Guidelines for Mapping and Visualization</span></u></font></font></font></a><font color="#000000"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><span style="font-weight: normal">
+- Choose color choices based on type of data </span></font></font></font>
+</p>
 <p style="margin-bottom: 0in; line-height: 115%"><a href="http://mapshaper.org"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">Map Shaper</span></u></font></font></font></a><font color="#000000"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><span style="font-weight: normal">
 - Preview and view map data in the browser </span></font></font></font>
+</p>
+
+<p style="margin-bottom: 0in; line-height: 115%"><a href="https://macwright.org/lonlat/"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">lon lat lon lat</span></u></font></font></font></a><font color="#000000"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><span style="font-weight: normal">
+-  explore the inconsistency in geospatial software for listing longitude and latitude </span></font></font></font>
 </p>
 
 <p style="margin-bottom: 0in; line-height: 115%"><a href="http://doc.arcgis.com/en/collector/"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">Collector</span></u></font></font></font></a><font color="#000000"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><span style="font-weight: normal">
@@ -99,6 +105,8 @@ Learn GIS</span></u></font></font></font></a></p>
 
 <p style="margin-bottom: 0in; font-weight: normal; line-height: 115%">
 <p style="margin-bottom: 0in; line-height: 115%"><a href="https://libguides.mit.edu/c.php?g=176295&p=1161396"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">MIT Libraries GIS Tutorials</span></u></font></font></font></a><font color="#000000"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><span style="font-weight: normal">
+<p style="margin-bottom: 0in; font-weight: normal; line-height: 115%">
+<p style="margin-bottom: 0in; line-height: 115%"><a href="http://gsp.humboldt.edu/olm_2015/Lessons/olm_lessons_homepage.html"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">Humboldt State University Geospatial Lessons</span></u></font></font></font></a><font color="#000000"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><span style="font-weight: normal">
 <p style="margin-bottom: 0in; line-height: 100%"><a href="http://www.qgistutorials.com/"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">QGIS
 Tutorials</span></u></font></font></font></a></p>
 
