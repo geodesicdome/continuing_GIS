@@ -218,6 +218,7 @@ Cool Maps:</b></font></font></font></p>
 </p>
 <p style="margin-bottom: 0in; line-height: 115%"><a href="http://rammb-slider.cira.colostate.edu/?sat=goes-16&z=0&im=12&ts=1&st=0&et=0&speed=130&motion=loop&map=1&lat=0&opacity%5B0%5D=1&hidden%5B0%5D=0&pause=0&slider=-1&hide_controls=0&mouse_draw=0&follow_feature=0&follow_hide=0&s=rammb-slider&sec=full_disk&p%5B0%5D=16&x=10848&y=10848"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal"> COOLEST EVER - GOES-16 Viewer</span></u></font></font></font></a>
 </p>
+<br/>
 </p>
 <p style="margin-bottom: 0in; line-height: 115%"><font color="#000000"><font face="ArialMT, serif"><font size="3" style="font-size: 12pt"><b>Professional
 Organizations:</b></font></font></font></p>
