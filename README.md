@@ -195,14 +195,13 @@ City </span></u></font></font></font></a>
 <p style="margin-bottom: 0in; line-height: 115%"><a href="https://www.antievictionmap.com/"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">Anti-Eviction
 Map</span></u></font></font></font></a></p>
 
-<p style="margin-bottom: 0in; line-height: 115%"><a href="http://blog.flickr.net/en/2015/05/14/eric-fischers-marvelous-maps/"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">Eric
+<p style="margin-bottom: 0in; line-height: 115%"><a href="http://blog.flickr.net/en/2015/05/14/eric-fischers-marvelous-maps/"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">Erica
 Fischer</span></u></font></font></font></a></p>
 
 <p style="margin-bottom: 0in; line-height: 115%"><a href="https://geodesicdome.github.io/bagels/"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">Bagel
 Map</span></u></font></font></font></a></p>
 
-<p style="margin-bottom: 0in; line-height: 115%"><a href="https://static1.squarespace.com/static/553d4e60e4b0bd2bbd3f2516/t/58102d2a59cc68e529b7a3cc/1477455155590/Postmortem+Migration.pdf"><font color="#1155cc"><font face="ArialMT, serif"><font size="2" style="font-size: 11pt"><u><span style="font-weight: normal">Sarah
-Palmer’s Post Mortem Migration Map</span></u></font></font></font></a></p>
+
 <p style="margin-bottom: 0in; font-weight: normal; line-height: 115%">
 <br/>
 
